@@ -6,4 +6,4 @@ To do:
 ngrams
 
 - Implement my own tokenization algorithm
-- Rewrite code centerd around an ngram object
+- Rewrite code centered around an ngram object
